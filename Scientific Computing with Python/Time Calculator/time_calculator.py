@@ -33,7 +33,7 @@ def add_time(start, duration):
             days_passed = days_passed + 1
 
     if final_hour == 0:
-        final_hour = 12
+        final_hour = 12 #because 12 hour time is weird
     if days_passed == 0:
         new_time = f"{final_hour}:{format(final_minute, '02')} {am_pm}"
     elif days_passed == 1:
