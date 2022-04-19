@@ -1,53 +1,6 @@
 # My FreeCodeCamp Solutions
 
-## My Course Completion Status (0/9)
-
 I hadn't actually done anything like this, so as and when I get time I will complete the courses in this order, publishing my solutions and such here (as proof I guess)
-
-### Scientific Computing with Python
-
-- Python for Everybody
-- Scientific Computing with Python Projects
-
-### Responsive Web Design Certification
-
-- Basic HTML and HTML5
-- Basic CSS
-- Applied Visual Design
-- Applied Accessibility
-- Responsive Web Design Principles
-- CSS Flexbox
-- CSS Grid
-- Responsive Web Design Projects
-
-### JavaScript Algorithms and Data Structures Certification
-
-- Basic JavaScript
-- ES6
-- Regular Expressions
-- Debugging
-- Basic Data Structures
-- Algorithm Scripting
-- Object Oriented Programming
-- Functional Programming
-- Intermediate Algorithm Scripting
-- JavaScript Algorithms and Data Structures Projects
-
-### Front End Libraries Certification
-
-- Bootstrap
-- jQuery
-- Sass
-- React
-- Redux
-- React and Redux
-- Front End Libraries Projects
-
-### Data Visialization Certification
-
-- Data Visualization with D3
-- JSON APIs and Ajax
-- Data Visualization Projects
 
 ### APIs and MicroServices Certification
 
@@ -56,13 +9,6 @@ I hadn't actually done anything like this, so as and when I get time I will comp
 - MongoDB and Mongoose
 - Apis and Microservices Projects
 
-### Back End Development and APIs
-
-- Managing Packages with NPM
-- Basic Node and Express
-- MongoDB and Mongoose
-- Back End Development and APIs Projects
-
 ### Information Secutiry and Quality Assurance
 
 - Information Security with HelmetJS
@@ -70,8 +16,101 @@ I hadn't actually done anything like this, so as and when I get time I will comp
 - Advanced Node and Express
 - Information Security and Quality Assurance Projects
 
+### Relational Database
+- [Celestial Bodies Database ]()
+- [World Cup Database ]()
+- [Salon Appointment Scheduler ]()
+- [Periodic Table Database ]()
+- [Number Guessing Game ]()
+
+## Python For Data Science(1/3)
+
+### Scientific Computing with Python ✔️
+
+- [Arithmetic Formatter](https://github.com/pj-sama/FreeCodeCampSolutions/tree/main/Scientific%20Computing%20with%20Python/Arithemetic%20Formatter)
+- [Budget App](https://github.com/pj-sama/FreeCodeCampSolutions/tree/main/Scientific%20Computing%20with%20Python/BudgetApp)
+- [Polygon Area Calculator](https://github.com/pj-sama/FreeCodeCampSolutions/tree/main/Scientific%20Computing%20with%20Python/Polygon%20Area%20Calculator)
+- [Probability Calculator](https://github.com/pj-sama/FreeCodeCampSolutions/tree/main/Scientific%20Computing%20with%20Python/Probability%20Calculator)
+- [Time Calculator](https://github.com/pj-sama/FreeCodeCampSolutions/tree/main/Scientific%20Computing%20with%20Python/Time%20Calculator)
+
 ### Data Analysis with Python
 
-- Data Analysis with Python
-- Numpy
-- Data Analysis with Python Projects
+- [Mean-Variance-Standard Deviation Calculator ]()
+- [Demographic Data Analyzer ]()
+- [Medical Data Visualizer ]()
+- [Page View Time Series Visualizer ]()
+- [Sea Level Predictor]()
+
+### Machine Learning with Python
+
+- [Project Name Solution]()
+- [Rock Paper Scissors ]()
+- [Cat and Dog Image Classifier ]()
+- [Book Recommendation Engine using KNN ]()
+- [Linear Regression Health Costs Calculator ]()
+- [Neural Network SMS Text Classifier ]()
+
+### Informatiopn Security
+- [Stock Price Checker ]()
+- [Anonymous Message Board ]()
+- [Port Scanner ]()
+- [SHA-1 Password Cracker ]()
+- [Secure Real Time Multiplayer Game ]()
+
+### Quality Assurance
+- [Metric-Imperial Converter ]()
+- [Issue Tracker ]()
+- [Personal Library ]()
+- [Sudoku Solver ]()
+- [American British Translator ]()
+
+## Legacy Full Stack Certification (0/6)
+
+### Responsive Web Design Certification
+
+- [Survey Form]()
+- [Tribute Page]()
+- [Technical Documentation Page]()
+- [Product Landing Page]()
+- [Personal Portfolio Webpage]()
+
+### JavaScript Algorithms and Data Structures Certification
+
+- [Palindrome Checker]()
+- [Roman Numeral Converter]()
+- [Caesars Cipher]()
+- [Telephone Number Validator]()
+- [Cash Register]()
+
+### Front End Libraries Certification
+
+- [Random Quote Machine]()
+- [Markdown Previewer]()
+- [Drum Machine ]()
+- [JavaScript Calculator ]()
+- [25 + 5 Clock]()
+
+### Data Visialization Certification
+
+- [Visualize Data with a Bar Chart ]()
+- [Visualize Data with a Scatterplot Graph ]()
+- [Visualize Data with a Heat Map ]()
+- [Visualize Data with a Choropleth Map ]()
+- [Visualize Data with a Treemap Diagram ]()
+
+
+### Back End Development and APIs
+
+- [Timestamp Microservice ]()
+- [Request Header Parser Microservice ]()
+- [URL Shortener Microservice ]()
+- [Exercise Tracker ]()
+- [File Metadata Microservice ]()
+
+### Legacy Information Security and Quality Assurance
+
+- [Metric-Imperial Converter]()
+- [Issue Tracker]()
+- [Personal Library]()
+- [Stock Price Checker]()
+- [Anonymous Message Board]()
