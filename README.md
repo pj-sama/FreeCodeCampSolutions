@@ -1,4 +1,4 @@
-# My FreeCodeCamp Solutions
+# My FreeCodeCamp Projects
 
 I hadn't actually done anything like this, so as and when I get time I will complete the courses in this order, publishing my solutions and such here (as proof I guess)
 
