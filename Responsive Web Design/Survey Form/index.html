@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="Description" content="Enter your description here" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.1.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <link rel="stylesheet" href="css/style.css">
+    <title>Pizza Survey</title>
+</head>
+
+<body>
+    <div class="minimalist-bg">
+        <div class="container w-25 bg-light rounded">
+
+            <h1 id="title" class="text-center" >Pizza Survey</h1>
+            <p id="description" class="text-center">You like pizza huh? Now's the time to show up just how much you like
+                it with this survey</p>
+            <div class="container-sm">
+
+                <form action="" id="survey-form">
+                    <div class="form-floating mb-3">
+                        <input type="text" class="form-control" id="name" placeholder="Name" required>
+                        <label for="name" id="name-label">Name</label>
+                    </div>
+                    <div class="form-floating mb-3">
+                        <input type="email" class="form-control" id="email" placeholder="name@example.com" required>
+                        <label for="email" id="email-label">Email</label>
+                    </div>
+
+                    <div class="form-floating mb-5">
+                        <input type="number" class="form-control" id="number" placeholder="Password" min=0 max=150>
+                        <label for="number" id="number-label">Age</label>
+                    </div>
+                    <div class="mb-5">
+                        <select class="form-select form-select mb-3" aria-label=".form-select-lg example" id="dropdown">
+                            <option selected>Choose your favourite Pizza</option>
+                            <option value="Pepperoni">Pepperoni</option>
+                            <option value="Hawaiian">Hawaiian</option>
+                            <option value="Mushroom">Mushroom</option>
+                            <option value="Margarita">Margarita</option>
+                        </select>
+                    </div>
+                    <div class="container mb-5
+                    ">
+
+                        <p>What is your favorite side?</p>
+                        <div class="form-check">
+                            <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault1" value="Wedges">
+                            <label class="form-check-label" for="flexRadioDefault1">
+                                Wedges
+                            </label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault2" value="Garlic Bread"
+                                checked>
+                            <label class="form-check-label" for="flexRadioDefault2">
+                                Garlic Bread
+                            </label>
+                        </div>
+                    </div>
+
+                    <div class="container mb-5">
+                        <p>Which drinks would you have with your Pizza? (Select all that apply)</p>
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" value="Water" id="flexCheckDefault">
+                            <label class="form-check-label" for="flexCheckDefault">
+                                Water
+                            </label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" value="Fanta" id="flexCheckChecked" checked>
+                            <label class="form-check-label" for="flexCheckDefault">
+                                Fanta
+                            </label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" value="Coke" id="flexCheckChecked" checked>
+                            <label class="form-check-label" for="flexCheckDefault">
+                                Coke
+                            </label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" value="Diet Coke" id="flexCheckChecked" checked>
+                            <label class="form-check-label" for="flexCheckDefault">
+                                Diet Coke
+                            </label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" value="Sprite" id="flexCheckChecked" checked>
+                            <label class="form-check-label" for="flexCheckDefault">
+                                Sprite
+                            </label>
+                        </div>
+                    </div>
+
+                    <div class="form-floating">
+                        <textarea class="form-control" placeholder="Leave a comment here" id="floatingTextarea2"
+                            style="height: 100px"></textarea>
+                        <label for="floatingTextarea2">Comments</label>
+                    </div>
+
+
+                    <button type="submit" id="submit" class="btn btn-primary mb-3">
+                        Submit
+                    </button>
+                </form>
+            </div>
+        </div>
+
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/2.9.2/umd/popper.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.1.0/js/bootstrap.min.js"></script>
+</body>
+
+</html>
