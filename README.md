@@ -9,7 +9,7 @@ I hadn't actually done anything like this, so as and when I get time I will comp
 - [MongoDB and Mongoose]()
 - [Apis and Microservices Projects]()
 
-### Information Secutiry and Quality Assurance
+### Information Security and Quality Assurance
 
 - [Information Security with HelmetJS]()
 - [Quality Assurance and Testing with Chai]()
